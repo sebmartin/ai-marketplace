@@ -19,3 +19,11 @@ Thread-based workspace management with specialized agents for long-running AI co
 ```
 /plugin install ai-workspace@sebmartin
 ```
+
+### tech-expert-agents
+
+Specialized expert agents for architecture, security, product strategy, technology selection, and cost analysis.
+
+```
+/plugin install tech-expert-agents@sebmartin
+```

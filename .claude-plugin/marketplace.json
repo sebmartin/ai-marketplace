@@ -1,11 +1,11 @@
 {
   "name": "sebmartin",
   "owner": {
-    "name": "Sebastien Martin",
-    "email": ""
+    "name": "Sebastien Martin"
   },
   "metadata": {
-    "description": "A curated collection of Claude Code plugins by Sebastien Martin"
+    "description": "A curated collection of Claude Code plugins by Sebastien Martin",
+    "pluginRoot": "./plugins"
   },
   "plugins": [
     {
@@ -15,13 +15,24 @@
         "repo": "sebmartin/ai-workspace"
       },
       "description": "Thread-based workspace management with specialized agents for long-running AI conversations",
-      "version": "1.0.0",
       "author": {
         "name": "Sebastien Martin"
       },
       "repository": "https://github.com/sebmartin/ai-workspace",
       "license": "MIT",
       "keywords": ["workspace", "threads", "agents", "context-management"]
+    },
+    {
+      "name": "tech-expert-agents",
+      "source": "tech-expert-agents",
+      "version": "1.0.0",
+      "description": "Specialized expert agents for architecture, security, product strategy, technology selection, and cost analysis",
+      "author": {
+        "name": "Sebastien Martin"
+      },
+      "repository": "https://github.com/sebmartin/ai-marketplace",
+      "license": "MIT",
+      "keywords": ["agents", "architecture", "security", "product", "strategy", "cost"]
     }
   ]
 }
