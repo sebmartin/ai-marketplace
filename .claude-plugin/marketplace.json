@@ -1,8 +1,7 @@
 {
   "name": "sebmartin",
   "owner": {
-    "name": "Sebastien Martin",
-    "email": ""
+    "name": "Sebastien Martin"
   },
   "metadata": {
     "description": "A curated collection of Claude Code plugins by Sebastien Martin",
