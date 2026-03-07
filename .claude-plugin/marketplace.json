@@ -1,0 +1,28 @@
+{
+  "name": "sebmartin",
+  "owner": {
+    "name": "Sebastien Martin",
+    "email": ""
+  },
+  "metadata": {
+    "description": "A curated collection of Claude Code plugins by Sebastien Martin"
+  },
+  "plugins": [
+    {
+      "name": "ai-workspace",
+      "source": {
+        "source": "github",
+        "repo": "sebmartin/ai-workspace",
+        "ref": "convert-to-plugin"
+      },
+      "description": "Thread-based workspace management with specialized agents for long-running AI conversations",
+      "version": "1.0.0",
+      "author": {
+        "name": "Sebastien Martin"
+      },
+      "repository": "https://github.com/sebmartin/ai-workspace",
+      "license": "MIT",
+      "keywords": ["workspace", "threads", "agents", "context-management"]
+    }
+  ]
+}
