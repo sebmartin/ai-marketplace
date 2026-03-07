@@ -12,8 +12,7 @@
       "name": "ai-workspace",
       "source": {
         "source": "github",
-        "repo": "sebmartin/ai-workspace",
-        "ref": "convert-to-plugin"
+        "repo": "sebmartin/ai-workspace"
       },
       "description": "Thread-based workspace management with specialized agents for long-running AI conversations",
       "version": "1.0.0",
