@@ -16,7 +16,6 @@
         "repo": "sebmartin/ai-workspace"
       },
       "description": "Thread-based workspace management with specialized agents for long-running AI conversations",
-      "version": "1.0.0",
       "author": {
         "name": "Sebastien Martin"
       },
@@ -27,13 +26,8 @@
     {
       "name": "tech-expert-agents",
       "source": "tech-expert-agents",
-      "description": "Specialized expert agents for architecture, security, product strategy, technology selection, and cost analysis",
       "version": "1.0.0",
-      "author": {
-        "name": "Sebastien Martin"
-      },
-      "repository": "https://github.com/sebmartin/ai-marketplace",
-      "license": "MIT",
+      "description": "Specialized expert agents for architecture, security, product strategy, technology selection, and cost analysis",
       "keywords": ["agents", "architecture", "security", "product", "strategy", "cost"]
     }
   ]
