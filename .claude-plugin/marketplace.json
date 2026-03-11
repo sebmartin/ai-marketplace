@@ -4,8 +4,7 @@
     "name": "Sebastien Martin"
   },
   "metadata": {
-    "description": "A curated collection of Claude Code plugins by Sebastien Martin",
-    "pluginRoot": "./plugins"
+    "description": "A curated collection of Claude Code plugins by Sebastien Martin"
   },
   "plugins": [
     {
@@ -24,7 +23,7 @@
     },
     {
       "name": "tech-expert-agents",
-      "source": "./tech-expert-agents",
+      "source": "./plugins/tech-expert-agents",
       "version": "1.0.0",
       "description": "Specialized expert agents for architecture, security, product strategy, technology selection, and cost analysis",
       "author": {
